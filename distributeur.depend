@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\maissa\desktop\c++\distributeur\main.cpp
+	<iostream>
+
+1738596162 source:c:\users\maissa\desktop\c++\distributeur\stock.cpp
+	<iostream>
+	"sock.h"
+
+1738595906 c:\users\maissa\desktop\c++\distributeur\sock.h
+
